@@ -1,0 +1,31 @@
+.header{
+  background-color:deepskyblue;
+  height: 50px;
+}
+
+.left{
+  float:left;
+}
+
+.right{
+  float:right;
+}
+
+ul{
+  list-style:none;
+  padding-left: 0px;
+}
+ul li {
+  float:left;
+}
+ul li a{
+  display:block;
+  color: #000000;
+  height:50px;
+  line-height:50px;
+  text-decoration:none;
+  padding:0px 30px;
+}
+ul li a:hover {
+  background-color:red;
+}
